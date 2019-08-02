@@ -1,5 +1,5 @@
 backend:
-  name: test-repo
+  name: ludder/tgtechblog
 
 media_folder: static/assets
 public_folder: assets
