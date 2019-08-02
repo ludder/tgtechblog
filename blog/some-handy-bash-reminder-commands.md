@@ -1,5 +1,5 @@
 ---
-path: bash-1
+path: /bash-1
 date: 2019-08-02T19:29:16.313Z
 title: Some handy Bash reminder commands
 ---
