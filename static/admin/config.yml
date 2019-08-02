@@ -1,5 +1,6 @@
 backend:
-  name: ludder/tgtechblog
+  name: github
+  repo: ludder/tgtechblog
 
 media_folder: static/assets
 public_folder: assets
